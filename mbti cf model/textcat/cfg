@@ -1,0 +1,13 @@
+{
+  "labels":[
+    "Se",
+    "Si",
+    "Ne",
+    "Ni",
+    "Te",
+    "Ti",
+    "Fe",
+    "Fi"
+  ],
+  "pretrained_vectors":null
+}
