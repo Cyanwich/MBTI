@@ -1,7 +1,7 @@
 import spacy
 nlp = spacy.load("./mbti profile model")
-def MBTIDoc():
-	file = open("./A.txt")
+def MBTIDoc(txtfile="./A.txt"):
+	file = open(txtfile)
 	text = file.read()
 	
 	lm = spacy.load('en')
