@@ -1,9 +1,0 @@
-{
-  "pretrained_dims":0,
-  "labels":[
-    "INTROVERTED",
-    "INTUTIVE",
-    "JUDGEMENTAL",
-    "THINKING"
-  ]
-}
