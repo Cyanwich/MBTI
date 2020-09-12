@@ -1,0 +1,33 @@
+{
+  "labels":[
+    "INTROVERTED",
+    "INTUTIVE",
+    "JUDGEMENTAL",
+    "THINKING",
+    "IN",
+    "IS",
+    "EN",
+    "ES",
+    "IT",
+    "IF",
+    "ET",
+    "EF",
+    "IJ",
+    "IP",
+    "EJ",
+    "EP",
+    "NT",
+    "NF",
+    "ST",
+    "SF",
+    "NJ",
+    "NP",
+    "SJ",
+    "SP",
+    "TJ",
+    "TP",
+    "FJ",
+    "FP"
+  ],
+  "pretrained_vectors":null
+}
